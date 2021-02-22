@@ -1,0 +1,17 @@
+﻿  Building 'KernelDriver1' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping Debug\KernelDriver1.inf
+  Stamping [Version] section with DriverVer=02/22/2021,22.4.37.435
+  driver.c
+  KernelDriver1.vcxproj -> C:\Users\Administrator\source\repos\KernelDriver1\Debug\KernelDriver1.sys
+  Driver is 'Universal'.
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\Administrator\source\repos\KernelDriver1\Debug\KernelDriver1\kerneldriver1.cat
